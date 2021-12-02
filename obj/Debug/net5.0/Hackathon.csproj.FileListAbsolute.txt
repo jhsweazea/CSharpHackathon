@@ -1,0 +1,15 @@
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/Hackathon.deps.json
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/Hackathon.runtimeconfig.json
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/Hackathon.runtimeconfig.dev.json
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/Hackathon.dll
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/ref/Hackathon.dll
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/bin/Debug/net5.0/Hackathon.pdb
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.csproj.AssemblyReference.cache
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.AssemblyInfoInputs.cache
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.AssemblyInfo.cs
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.csproj.CoreCompileInputs.cache
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.dll
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/ref/Hackathon.dll
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.pdb
+/Users/jhsweazea/Desktop/VS Code Projects/C#/Hackathon/obj/Debug/net5.0/Hackathon.genruntimeconfig.cache

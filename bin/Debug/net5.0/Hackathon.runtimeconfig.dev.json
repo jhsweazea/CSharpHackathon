@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jhsweazea/.dotnet/store/|arch|/|tfm|",
+      "/Users/jhsweazea/.nuget/packages"
+    ]
+  }
+}
